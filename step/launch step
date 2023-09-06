@@ -1,0 +1,3 @@
+. devel/setup.bash
+roslaunch pollo_plate_control tool.launch
+

@@ -1,0 +1,5 @@
+g++ -o data_writer data_writer.cpp
+./data_writer
+nano plot_script.gnu
+gnuplot plot_script.gnu
+
